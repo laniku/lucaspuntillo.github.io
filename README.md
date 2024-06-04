@@ -1,6 +1,6 @@
 # Hey there 👋🏼
 
-I'm Lucas, A self taught programmer who loves to reach into the depths of low-level development and studies music theory in my spare time. I'm an avid guitar player, you can find my setup [here.](https://lucaspuntillo.github.io/guitarsetup/) I also really enjoy photography and collecting retro hardware (My Mac SE is my baby!)
+I'm Lucas, A self taught programmer who loves to reach into the depths of low-level development and studies music theory in my spare time. I'm an avid guitar player, you can find my setup [here.](https://lucasp.is-a.dev/guitarsetup/) I also really enjoy photography and collecting retro hardware (My Mac SE is my baby!)
 
 Anyways have some basic info about me:
 
